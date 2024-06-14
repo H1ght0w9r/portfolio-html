@@ -430,3 +430,62 @@ footer {
 footer p {
   text-align: center;
 }
+
+/*Impressum*/
+
+.Impressum-general {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  border-left: 25rem;
+  border-right: 25rem;
+  margin: auto;
+  font-weight: 200;
+  padding: 0.5rem;
+}
+.Pflichtinfos-container {
+  display: in;
+  justify-content: left;
+  align-items: center;
+  border-left: 25rem;
+  border-right: 25rem;
+  margin: 0.5rem;
+  font-weight: 200;
+}
+
+.Inhalte__1 {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  border-left: 25rem;
+  border-right: 25rem;
+  margin: 0.5rem;
+  font-weight: 200;
+}
+.geltung-container {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  border-left: 25rem;
+  border-right: 25rem;
+  margin: 0.5rem;
+  font-weight: 200;
+}
+.Datenschutz-text {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  border-left: 25rem;
+  border-right: 25rem;
+  margin: 0.5rem;
+  font-weight: 200;
+}
+.Pflichten{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  border-left: 25rem;
+  border-right: 25rem;
+  margin: 0.5rem;
+  font-weight: 200;
+}
